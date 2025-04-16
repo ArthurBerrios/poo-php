@@ -19,8 +19,8 @@ Este projeto tem como objetivo revisar e aplicar os principais conceitos de **Pr
 - ✅ **Polimorfismo**  
   Comportamento diferente para o mesmo método, dependendo da classe que o implementa.
 
-- ✅ **Autoload (Composer)**  
-  Utilização do autoloader do Composer para carregamento automático de classes.
+- ✅ **Autoload **  
+  Utilização do autoloader para carregamento automático de classes.
 
 - ✅ **Classes Abstratas**  
   Criação de classes base que não podem ser instanciadas diretamente, mas servem de modelo para outras.
