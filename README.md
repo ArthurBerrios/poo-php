@@ -25,6 +25,4 @@ Este projeto tem como objetivo revisar e aplicar os principais conceitos de **Pr
 - ✅ **Classes Abstratas**  
   Criação de classes base que não podem ser instanciadas diretamente, mas servem de modelo para outras.
 
----
 
-## 📁 Estrutura de Pastas
